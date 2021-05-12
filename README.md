@@ -3,7 +3,7 @@ Android version list and features
 
 
 
-# Android 1.0 (API level 1)Badge
+# Android 1.0 (API level 1)
 ## 1.0 - September 23, 2008
 
 Android Market allowed application downloads and updates through the Market application.
