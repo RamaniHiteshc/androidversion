@@ -6,9 +6,12 @@ Android version list and features
 # Android 1.0 (API level 1)
 ## 1.0 - September 23, 2008
 
-Android Market allowed application downloads and updates through the Market application.
-Web browser to show, zoom and pan full HTML and XHTML web pages – multiple pages show as windows ("cards").
-Camera support – however, this version lacked the option to change the camera's resolution, white balance, quality, etc.
+ Android Market allowed application downloads and updates through the Market application.
+ 
+ Web browser to show, zoom and pan full HTML and XHTML web pages – multiple pages show as windows ("cards").
+ 
+ Camera support – however, this version lacked the option to change the camera's resolution, white balance, quality, etc.
+ 
 Folders allowing the grouping of a number of application icons into a single folder icon on the Home screen.
 Access to web email servers, supporting POP3, IMAP4, and SMTP.
 Gmail synchronization with the Gmail application.
